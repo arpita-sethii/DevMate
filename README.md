@@ -31,21 +31,19 @@ DevMate is an intelligent, conversational assistant designed to help developers 
 
 ## 📁 Folder Structure
 
-
 DevMate/
 ├── public/
-│   └── index.html
+│ └── index.html
 ├── src/
-│   ├── App.tsx
-│   ├── main.tsx
-│   ├── index.css
-│   ├── App.css
-│   └── assets/ (optional)
+│ ├── App.tsx
+│ ├── main.tsx
+│ ├── index.css
+│ ├── App.css
+│ └── assets/ (optional)
 ├── package.json
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
 
 ---
 
