@@ -1,0 +1,126 @@
+body {
+  background-color: #0f0f0f;
+  color: #00ffcc;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+textarea {
+  background-color: #1a1a1a;
+  color: #00ffcc;
+  border: 1px solid #00ffcc;
+  padding: 1rem;
+  width: 100%;
+  max-width: 700px;
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: #00ffcc;
+  color: #0f0f0f;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.response-section {
+  margin-top: 2rem;
+  max-width: 700px;
+}
+
+.response-title {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  color: #ff33cc;
+}
+
+.response-box {
+  background-color: #1a1a1a;
+  border: 1px solid #00ffcc;
+  padding: 1rem;
+  border-radius: 6px;
+  color: #ffffff;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  max-width: 700px;
+}
+/* App.css */
+h1 {
+  color: var(--primary-color);
+  text-shadow: 0 0 10px var(--primary-color);
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+label {
+  margin-right: 1rem;
+  font-size: 1.1rem;
+}
+
+textarea {
+  background-color: var(--textarea-bg);
+  color: var(--textarea-text);
+  border: 1px solid var(--primary-color);
+  padding: 1rem;
+  border-radius: 8px;
+  width: 100%;
+  font-family: 'Courier New', monospace;
+  font-size: 1rem;
+  box-shadow: 0 0 10px var(--primary-color);
+}
+
+input[type="file"] {
+  color: var(--text-color);
+}
+
+button {
+  background-color: var(--button-bg);
+  color: var(--primary-color);
+  border: 1px solid var(--button-border);
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  box-shadow: 0 0 10px var(--primary-color);
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--primary-color);
+  color: #000;
+  box-shadow: 0 0 20px var(--primary-color);
+}
+
+.response-box {
+  background-color: var(--response-bg);
+  color: var(--primary-color);
+  border: 1px solid var(--response-border);
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px var(--response-border);
+  white-space: pre-wrap;
+}
+/* Add this to App.css */
+
+input[type="file"],
+textarea,
+button,
+.response-box {
+  margin-top: 1rem;  /* Adds spacing above each element */
+}
+
+/* Optional: add margin-bottom to ensure more spacing below */
+.response-box {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.response-section {
+  margin-top: 2rem; /* or try 3rem for more space */
+}

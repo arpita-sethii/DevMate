@@ -1,0 +1,36 @@
+/* index.css */
+:root {
+  --bg-color: #0d0d0d;
+  --text-color: #f0f0f0;
+  --primary-color: #0ff;
+  --highlight-color: #f0f;
+  --button-bg: #111;
+  --button-border: #0ff;
+  --response-bg: #111;
+  --response-border: #0ff;
+  --textarea-bg: #1a1a1a;
+  --textarea-text: #0ff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #535bf2;
+}
