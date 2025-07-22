@@ -75,10 +75,11 @@ DevMate/
 Here are some screenshots of DevMate in action:
 
 ### 🖥️ Home Screen
-![Home Screen](assets\Screenshot 2025-07-22 153822.png)
+![Home Screen](assets/Screenshot_2025-07-22_153450.png)
 
 ### 📊 Analysis Output
-![Analysis Output](assets\Screenshot 2025-07-22 153822.png)
+![Analysis Output](assets/Screenshot_2025-07-22_153822.png)
+
 
 
 
