@@ -67,7 +67,6 @@ DevMate/
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ---
 ## 🔍 Demo
@@ -75,10 +74,10 @@ DevMate/
 Here are some screenshots of DevMate in action:
 
 ### 🖥️ Home Screen
-![Home Screen](assets/Screenshot_2025-07-22_153450.png)
+![Home Screen]([assets/Screenshot_2025-07-22_153450.png](https://github.com/arpita-sethii/DevMate/blob/main/assets/Screenshot%202025-07-22%20153450.png ))
 
 ### 📊 Analysis Output
-![Analysis Output](assets/Screenshot_2025-07-22_153822.png)
+![Analysis Output]([assets/Screenshot_2025-07-22_153822.png](https://github.com/arpita-sethii/DevMate/blob/main/assets/Screenshot%202025-07-22%20153822.png ))
 
 
 
