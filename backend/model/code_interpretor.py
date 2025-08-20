@@ -4,7 +4,7 @@ from langchain.llms import Ollama
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
-llm = Ollama(model="mistral")  # make sure Ollama is running and has enough memory
+llm = Ollama(model="mistral")  
 
 prompt = PromptTemplate(
     input_variables=["code"],
